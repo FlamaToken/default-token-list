@@ -1,15 +1,4 @@
-{
-    "name": "igniswap",
-    "timestamp": "2020-08-25T15:41:29.665Z",
-    "version": {
-      "major": 1,
-      "minor": 3,
-      "patch": 1
-    },
-    "tags": {},
-    "logoURI": "/images/coins/wbnb.png",
-    "keywords": ["igni", "default"],
-    "tokens": [
+[
       {
         "name": "WBNB Token",
         "symbol": "WBNB",
@@ -752,5 +741,5 @@
         "decimals": 18
       }
     ]
-  }
+
   
